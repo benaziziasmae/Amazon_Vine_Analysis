@@ -7,7 +7,7 @@ Amazon_Vine_Analysis
 This project analyzes Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.
 The analysis uses PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, load the transformed data into pgAdmin and calculate different metrics.
 
-We focused our analysis on the US reviews for kitchen.
+In this project, i have picked a data set from Amazon reviews regarding kitchen.
 
 
 ## Resources
@@ -18,11 +18,29 @@ We focused our analysis on the US reviews for kitchen.
 
 ### 1- Deliverable 1
 
+In this deliverable we did the following steps:
+
+- Extracted the "kitchen" reviews dataset from the list of review datasets from AWS S3 bucket and loaded into a DataFrame.
+
+- Conducted necessary Transformations of the extracted dataset to make sure that the DataFrames match in both data type and column name. This will fit the dataset into tables of the schema file.
+
+- Loaded the DataFrames that correspond to tables into an AWS RDS instance.
+
+and we got the following results
+
+**Customer table**
+
 ![Customer_table](/Resources/Customer_table.PNG)
+
+**Product table**
 
 ![Product_table](/Resources/Product_table.PNG)
 
+**Review by ID table**
+
 ![Review_ID_table](/Resources/Review_ID_table.PNG)
+
+**Vine table**
 
 ![vine_table](/Resources/vine_table.PNG)
 
