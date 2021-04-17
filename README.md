@@ -43,5 +43,9 @@ We focused our analysis on the US reviews for kitchen.
 
 ![total_paid_reviews](/Resources/total_paid_reviews.PNG)
 
-![five_star_Reviews%](/Resources/five_star_Reviews%.PNG)
+![five_star_Reviews](/Resources/five_star_Reviews.PNG)
+
+![total_unpaid_reviews](/Resources/total_unpaid_reviews.PNG)
+
+![unpaid_five_star_reviews](/Resources/unpaid_five_star_reviews.PNG)
 
