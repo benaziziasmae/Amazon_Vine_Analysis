@@ -25,3 +25,11 @@ We focused our analysis on the US reviews for kitchen.
 ![Review_ID_table](/Resources/Review_ID_table.PNG)
 
 ![vine_table](/Resources/vine_table.PNG)
+
+
+
+2- Deliverable 2
+
+![total_vote](/Resources/total_vote.PNG)
+
+![helpful_vote](/Resources/helpful_vote.PNG)
