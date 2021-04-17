@@ -73,7 +73,28 @@ And the results showed as the following:
 
 ![unpaid_five_star_reviews](/Resources/unpaid_five_star_reviews.PNG)
 
-### 3- Deliverable 3/ Analysis:
+### 3- Deliverable 3/ Results and Analysis:
 
 In this section we wil do a breive summary/analysis about the results we got from deliverable 1 and 2.
+
+### Results
+For the kitchen review that we selected, the results show like the following:
+
+**Paid Reviews**
+
+- 1207 total paid reviews.
+- with 509 total of paid five start reviews, 
+- giving a percentage of 42%.
+
+
+**Unpaid Reviews**
+- 97839 total paid reviews.
+- with 45858 total of paid five start reviews, 
+- giving a percentage of about 47%.
+
+### Analysis
+
+42% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 47%.
+Additionally, the total review in the unpaid vine program were more important that the paid program.
+that's to say, and as per the percentage calculated, we can conclude that analysis the vine program does not show any big bias.
 
