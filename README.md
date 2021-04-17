@@ -13,3 +13,4 @@ We focused our analysis on the US reviews for kitchen.
 ## Resources
 - Data : [Amazon Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 - Software : Google Colab Notebook, PostgreSQL, pgAdmin 4, Amazon Web Service AWS
+
