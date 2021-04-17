@@ -24,7 +24,7 @@ In this deliverable we did the following steps:
 
 - Conducted necessary Transformations of the extracted dataset to make sure that the DataFrames match in both data type and column name. This will fit the dataset into tables of the schema file.
 
-- Loaded the DataFrames that correspond to tables into an AWS RDS instance.
+- Loaded the DataFrames that correspond to tables in pgAdmin.
 
 and we got the following results
 
@@ -48,6 +48,15 @@ and we got the following results
 
 ### 2- Deliverable 2
 
+In this deliverable, we will determine if there is any bias towards reviews that were written as part of the Vine program. and we will determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+
+We followed the according steps:
+
+- Filtered the data and create a new DataFrame or table to retrieve amany information regarding the reviwes: total vote=>20, helpful vote, vine =='y', vine=='n'..
+- Determined the number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid).
+
+And the results showed as the following:
+
 ![total_vote](/Resources/total_vote.PNG)
 
 ![helpful_vote](/Resources/helpful_vote.PNG)
@@ -56,9 +65,6 @@ and we got the following results
 
 ![vine_n](/Resources/vine_n.PNG)
 
-
-### 3- Deliverable 3
-
 ![total_paid_reviews](/Resources/total_paid_reviews.PNG)
 
 ![five_star_Reviews](/Resources/five_star_Reviews.PNG)
@@ -66,4 +72,8 @@ and we got the following results
 ![total_unpaid_reviews](/Resources/total_unpaid_reviews.PNG)
 
 ![unpaid_five_star_reviews](/Resources/unpaid_five_star_reviews.PNG)
+
+### 3- Deliverable 3/ Analysis:
+
+In this section we wil do a breive summary/analysis about the results we got from deliverable 1 and 2.
 
