@@ -16,7 +16,7 @@ We focused our analysis on the US reviews for kitchen.
 
 ## Summary 
 
-1- Deliverable 1
+### 1- Deliverable 1
 
 ![Customer_table](/Resources/Customer_table.PNG)
 
@@ -28,7 +28,7 @@ We focused our analysis on the US reviews for kitchen.
 
 
 
-2- Deliverable 2
+### 2- Deliverable 2
 
 ![total_vote](/Resources/total_vote.PNG)
 
@@ -37,3 +37,10 @@ We focused our analysis on the US reviews for kitchen.
 ![vine_y](/Resources/vine_y.PNG)
 
 ![vine_n](/Resources/vine_n.PNG)
+
+
+### 3- Deliverable 3
+
+![total_paid_reviews](/Resources/total_paid_reviews.PNG)
+
+![five_star_Reviews%](/Resources/five_star_Reviews%.PNG)
