@@ -97,4 +97,4 @@ For the kitchen review that we selected, the results show like the following:
 - 42% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 47%.
 - Also, the total review in the unpaid vine program were more important that the paid program.
 - That's to say, and as per the percentage calculated, we can conclude that analysis the vine program does not show any big bias.
-- Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews
+- Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
