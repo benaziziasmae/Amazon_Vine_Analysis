@@ -20,7 +20,7 @@ We focused our analysis on the US reviews for kitchen.
 
 ![Customer_table](/Resources/Customer_table.PNG)
 
-![product_table](/Resources/product_table.PNG)
+![Product_table](/Resources/Product_table.PNG)
 
 ![Review_ID_table](/Resources/Review_ID_table.PNG)
 
