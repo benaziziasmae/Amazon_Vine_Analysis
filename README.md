@@ -33,3 +33,7 @@ We focused our analysis on the US reviews for kitchen.
 ![total_vote](/Resources/total_vote.PNG)
 
 ![helpful_vote](/Resources/helpful_vote.PNG)
+
+![vine_y](/Resources/vine_y.PNG)
+
+![vine_n](/Resources/vine_n.PNG)
